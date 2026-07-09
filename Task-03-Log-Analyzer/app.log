@@ -1,0 +1,39 @@
+2026-07-01 10:15:20 INFO 192.168.1.5 User login successful for admin
+
+2026-07-01 10:16:05 DEBUG 192.168.1.10 Fetching docker container status
+
+2026-07-01 10:17:12 WARNING 10.0.0.2 High memory usage detected on node-1
+
+2026-07-01 10:18:00 ERROR 192.168.1.5 Disk Full: Space remaining 0% on /dev/sda1
+
+2026-07-01 10:20:44 ERROR 54.210.12.3 Permission Denied while accessing /etc/shadow
+
+2026-07-01 10:22:11 INFO 192.168.1.5 Restarted docker daemon successfully
+
+2026-07-01 10:25:30 ERROR 10.0.0.2 Connection Refused by database remote server
+
+2026-07-02 08:00:12 INFO 192.168.1.12 Daily system cleanup initialized
+
+2026-07-02 08:05:22 DEBUG 192.168.1.5 Checking docker images cache
+
+2026-07-02 09:12:00 WARNING 10.0.0.2 CPU usage spikes above 85%
+
+2026-07-02 09:15:33 ERROR 192.168.1.5 Disk Full: Failed to write cache to disk
+
+2026-07-02 09:20:01 ERROR 10.0.0.2 Connection Refused on port 5432
+
+2026-07-02 11:45:10 WARNING 192.168.1.5 Slow query execution detected on DB
+
+2026-07-02 12:00:00 INFO 172.16.0.4 Scheduled backup script completed
+
+2026-07-08 10:00:01 INFO 192.168.1.5 System reboot completed successfully
+
+2026-07-08 10:02:15 DEBUG 10.0.0.2 Syncing local docker containers with registry
+
+2026-07-08 10:05:40 ERROR 54.210.12.3 Permission Denied for user 'guest'
+
+2026-07-08 10:10:00 ERROR 192.168.1.5 Disk Full: Log partition exhausted
+
+2026-07-08 10:12:30 ERROR 10.0.0.2 Connection Refused to auth server
+
+2026-07-08 10:15:00 WARNING 192.168.1.5 SSL Certificate expiring in 3 days
